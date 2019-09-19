@@ -21,6 +21,8 @@ clock_t clock2;
 int main(void)
 {
 
+	clock_t clock3;	
+
 	printf("Hello\n");
 
 	return 0;
